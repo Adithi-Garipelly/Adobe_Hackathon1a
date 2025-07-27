@@ -1,0 +1,185 @@
+{
+  "title": "8086 Architecture ",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "8086 Architecture ",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Microprocessors ",
+      "page": 0
+    },
+    {
+      "level": "H4",
+      "text": "INTEL 4004 ( 1971) ",
+      "page": 0
+    },
+    {
+      "level": "H4",
+      "text": "45 instructions PMOS technology ",
+      "page": 0
+    },
+    {
+      "level": "H4",
+      "text": "INTEL 8008 (1972) ",
+      "page": 0
+    },
+    {
+      "level": "H4",
+      "text": "48 instructions PMOS technology ",
+      "page": 0
+    },
+    {
+      "level": "H4",
+      "text": "10X faster than 8008 NMOS technology ",
+      "page": 0
+    },
+    {
+      "level": "H4",
+      "text": "Contained special hardware like programmable counters, ",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Pentium pro Pentium ii Pentium iii ",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Pentium iv ",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "General Architecture of Microprocessors ",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Register Organization of 8086 ",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Code segment (CS) ",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Stack segment (SS) ",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Data segment (DS) ",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Extra segment (ES) ",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Stack Pointer (SP) Base Pointer (BP) ",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Destination Index (DI) ",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "1. Conditional Flags 2. Control Flags Conditional flags ",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Control Flags ",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "1. Execution Unit (EU) 2.Bus interface Unit (BIU) ",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "EXECUTION UNIT( EU) ",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Executes instructions Control circuitry ",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "General purpose Registers Pointer and Index Registers ",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "It is 16 bit ",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Divided into two types Conditional flags Control flags ",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Conditional Flags ",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "General Purpose Registers ",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "BUS INTERFACE UNIT (BIU) The BIU sends out ",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Instruction Queue Instruction pointer Segment registers ",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Instruction Pointer ",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "Base pointer Register (BP) Source Pointer Register(SP) ",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Destination Pointer Register(DP) ",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Programming model ",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": ": 22236 H ",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "HOLD Response Sequence ",
+      "page": 29
+    }
+  ]
+}
